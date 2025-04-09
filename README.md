@@ -1,6 +1,6 @@
 Ссылка на проект https://web.telegram.org/k/#@Narodniieokna_bot
 
-Ссылка на скриншот https://github.com/OlenkaBor/ai-assistent/blob/main/image.png?raw=true
+![Cкриншот]https://github.com/OlenkaBor/ai-assistent/blob/main/image.png?raw=true
 
 # ИИ-ассистент для компании по установке окон
 
